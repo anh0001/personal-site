@@ -9,21 +9,28 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Anhar Risnumawan</h2>
+        <p><a href="mailto:anhar@pens.ac.id">anhar@pens.ac.id</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>
+        As a lecturer in the Mechatronics Engineering Division
+        at Politeknik Elektronika Negeri Surabaya, Indonesia,
+        my expertise lies in the dynamic fields of computer vision
+        and robotics. My academic and professional journey
+        is marked by a deep commitment to both education and innovative research,
+        with a special focus on practical applications in computer vision
+        and robotic technologies. Beyond the classroom,
+        I am passionate about fostering collaborations between academia and industry,
+        aiming to bridge the gap and create synergies that advance technological frontiers.
+        I am always open to exploring new opportunities and
+        partnerships that leverage my expertise for real-world industrial applications.
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +41,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Anhar Risnumawan.</p>
     </section>
   </section>
 );

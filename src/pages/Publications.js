@@ -4,11 +4,11 @@ import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
 
-const About = () => {
+const Publications = () => {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
-    import('../data/about.md')
+    import('../data/mypublications.md')
       .then((res) => {
         fetch(res.default)
           .then((r) => r.text())
@@ -22,13 +22,13 @@ const About = () => {
 
   return (
     <Main
-      title="About"
-      description="Learn about Anhar Risnumawan"
+      title="Publications"
+      description="Publications of Anhar Risnumawan"
     >
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2><Link to="/about">About Me</Link></h2>
+            <h2><Link to="/publications">Publications</Link></h2>
             <p>(in about {count} words)</p>
           </div>
         </header>
@@ -40,4 +40,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Publications;
