@@ -1,3 +1,6 @@
+### 2023
+- 2nd Winner in Humanoid Robot Soccer Competition, regional level, Indonesia.
+
 ### 2022
 - 3rd Winner in Humanoid Robot Soccer Competition, national level, Indonesia.
 - Best Design, national level, Indonesia.

@@ -20,7 +20,7 @@ const data = [
     title: 'World Skills',
     subtitle: 'World Skills',
     link: '/projects/worldskills',
-    image: '/images/projects/worldskills/worldskills.jpg',
+    image: '/images/projects/worldskills/worldskills.jpeg',
     date: '2019-01-01',
     desc: 'A mobile robot with custom gripper is designed to complete the given tasks. '
       + 'The robot must run in real-time autonomously to complete the given tasks '

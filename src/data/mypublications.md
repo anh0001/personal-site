@@ -1,5 +1,9 @@
+# 2023
+1. Bilfagih, A. S., Risnumawan, A., Anggraeni, M. E., and Darmawan, A. (2023, August). **Modelling Differential Drive Mobile Robot for High-Resolution Multi-View Image Capturing**. In *International Electronics Symposium (IES)*, pp. 311-316, 979-8-3503-1473-1, IEEE. <a href="https://drive.google.com/open?id=1slnoQoOdU9ItJ5RbvNq7wRL6j_R4Cyyw" style="color:red;">[Paper]</a>
+1. Ardiansyah, M. R., Risnumawan, A., and Gamar, F. (2023, August). **Versatile Vision: Innovation of a Node-RED-based Smart Surveillance System**. In *International Electronics Symposium (IES)*, pp. 599-603, 979-8-3503-1473-1, IEEE. <a href="https://drive.google.com/open?id=1itrQVcC8bMYMiXW__7Q8zSTqtLvYsNmA" style="color:red;">[Paper]</a> **Best Paper**
+
 # 2022
-1. Budianti, N. I., Gibran, M., Risnumawan, A., Anggraeni, M. E., and Ratri, A. (2022). **Background Blurring and Removal for 3D Modelling of Cultural Heritage Objects**. In *International Electronics Symposium (IES)*, pp xxx-xxx, 978-1-xxxx-xxxx-x, IEEE. To be published <a href="https://drive.google.com/open?id=1Dc1wlcfnUlcQ15tTCBHXRj-zEIcMvrl1" style="color:red;">[Paper]</a>
+1. Budianti, N. I., Gibran, M., Risnumawan, A., Anggraeni, M. E., and Ratri, A. (2022). **Background Blurring and Removal for 3D Modelling of Cultural Heritage Objects**. In *International Electronics Symposium (IES)*, pp. 664-670, 978-1-6654-8971-3, IEEE. <a href="https://drive.google.com/open?id=1Dc1wlcfnUlcQ15tTCBHXRj-zEIcMvrl1" style="color:red;">[Paper]</a>
 1. Sutoyo, E., Rifai, A.P., Risnumawan, A., and Saputra, M. (2022). **A Comparison of Text Weighting Schemes on Sentiment Analysis of Government Policies: A Case Study of Replacement of National Examinations**. In *Multimedia Tools and Applications*, Vol 81 No 5, pp 6413-6431, 1573-7721, Springer. <a href="https://drive.google.com/open?id=1xyc1gIZi8x-Ui4PId6Bj_B2yu_OHW2Ys" style="color:red;">[Paper]</a>
 
 # 2021
