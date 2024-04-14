@@ -20,24 +20,23 @@ const Index = () => (
       </header>
 
       <h3>Introduction</h3>
-      <p>Enter the dynamic realm of Anhar Risnumawan,
-        a Lecturer at Politeknik Elektronika Negeri Surabaya (PENS),
-        where cutting-edge research meets innovative teaching.
-        Anhar is a respected researcher in Computer Vision, Machine Learning,
-        Optimization, Robotics, and Agricultural Research,
-        setting new benchmarks in technological advancement and academic excellence.
+      <p>Anhar Risnumawan, a Lecturer at Politeknik Elektronika
+        Negeri Surabaya (PENS), endeavors to contribute to the
+        fields of Computer Vision, Machine Learning, Optimization,
+        Robotics, and Agricultural Research. Through his ongoing
+        research and a commitment to innovative teaching, he hopes to
+        support the advancement of technology and academic learning.
       </p>
 
       <h3>About Anhar</h3>
-      <p>Anhar Risnumawan is not just an academic and researcher,
-        but a beacon of integrity in his field.
-        His expertise spans programming languages like Python,
-        Matlab, and C++, and his work in robotics and embedded
-        systems is widely respected. His teaching philosophy,
-        deeply intertwined with JOSS - Honesty, Originality,
-        Enthusiasm, and Courtesy, inspires students to pursue
-        knowledge with these core values, shaping a new era of
-        ethical and innovative technologists.
+      <p>Anhar Risnumawan is an academic and researcher with a focus on
+        programming languages such as Python, Matlab, and C++.
+        His contributions to robotics and embedded systems have gained
+        recognition in his field. He advocates for a teaching
+        philosophy rooted in GO-JOSS - Gotong Royong, Jujur, Original,
+        Semangat, and Santun (Mutual Cooperation, Honesty, Originality,
+        Enthusiasm, and Courtesy), aiming to guide students to value
+        these principles in their pursuit of knowledge and technological innovation.
       </p>
 
       <h3>Professional Milestones</h3>

@@ -9,6 +9,10 @@ const routes = [
     path: '/publications',
   },
   {
+    label: 'Patent',
+    path: '/patent',
+  },
+  {
     label: 'Projects',
     path: '/projects',
   },

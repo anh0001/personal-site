@@ -19,6 +19,7 @@ const FinalProjects = lazy(() => import('./pages/projects/finalProjects/FinalPro
 const Worldskills = lazy(() => import('./pages/projects/worldskills/Worldskills'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
+const Patent = lazy(() => import('./pages/Patent'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -26,6 +27,7 @@ const App = () => (
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/publications" element={<Publications />} />
+        <Route path="/patent" element={<Patent />} />
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/projects/eros" element={<Eros />} />

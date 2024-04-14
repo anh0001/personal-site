@@ -1,4 +1,8 @@
 # 2023
+1. Wijaya, C. K., Yahya, A. R., Pradana, E. Y., Febriansah, S., Yulianto, S. S., Minanda, A. R., Fachrulah, M. D., Athira, Z., Risnumawan, A., and Sudaryanto, A. (2023, September). **Transforming an EROS Humanoid Soccer Robot: A Study of Velocity Input and IMU-Managed Heading**. In *2023 8th International Conference on Electrical, Electronics and Information Engineering (ICEEIE)*, pp. 1-6, 979-8-3503-4050-1, IEEE. <a href="https://drive.google.com/open?id=1mrcSV6g4mhkpE9DTQQQFhvEU6Hjz20aj" style="color:red;">[Paper]</a> **Best Paper**
+1. Risnumawan, A., Maliki, A., Sulistijono, I. A., and Gamar, F. (2023, September). **Enhancing Precision Agriculture Through PSO-Enabled Drones: Targeted Pest Control in Indonesian Rice Cultivation**. In *2023 8th International Conference on Electrical, Electronics and Information Engineering (ICEEIE)*, pp. 1-6, 979-8-3503-4050-1, IEEE. <a href="https://drive.google.com/open?id=12YitNH-VZbMpxsMPCsfIdOregunHLP_I" style="color:red;">[Paper]</a>
+1. Sulistijono, I. A., Nata, A. D., Risnumawan, A., and Satria, N. F. (2023, September). **Designing a Transporter Mobile Robot for the WorldSkills Competition 2022 Using a Finite-State Machine Approach**. In *2023 8th International Conference on Electrical, Electronics and Information Engineering (ICEEIE)*, pp. 1-6, 979-8-3503-4050-1, IEEE. <a href="https://drive.google.com/open?id=1zxvyMlwCXcwhPHigAi9nf8xMxIrdKdwA" style="color:red;">[Paper]</a>
+1. Darmawan, A., Haqqi, M. D., Sulistijono, I. A., and Risnumawan, A. (2023, September). **Two Dimensional Local Positioning for Monitoring Position and Movement using UWB**. In *2023 8th International Conference on Electrical, Electronics and Information Engineering (ICEEIE)*, pp. 1-5, 979-8-3503-4050-1, IEEE. <a href="https://drive.google.com/open?id=1UrefRZWpn40NyyRM0yux0545SCyZH4F5" style="color:red;">[Paper]</a>
 1. Bilfagih, A. S., Risnumawan, A., Anggraeni, M. E., and Darmawan, A. (2023, August). **Modelling Differential Drive Mobile Robot for High-Resolution Multi-View Image Capturing**. In *International Electronics Symposium (IES)*, pp. 311-316, 979-8-3503-1473-1, IEEE. <a href="https://drive.google.com/open?id=1slnoQoOdU9ItJ5RbvNq7wRL6j_R4Cyyw" style="color:red;">[Paper]</a>
 1. Ardiansyah, M. R., Risnumawan, A., and Gamar, F. (2023, August). **Versatile Vision: Innovation of a Node-RED-based Smart Surveillance System**. In *International Electronics Symposium (IES)*, pp. 599-603, 979-8-3503-1473-1, IEEE. <a href="https://drive.google.com/open?id=1itrQVcC8bMYMiXW__7Q8zSTqtLvYsNmA" style="color:red;">[Paper]</a> **Best Paper**
 
@@ -68,11 +72,11 @@
 
 # 2014
 1. Risnumawan, A., Shivakumara, P., Chan, C. S., and Tan, C. L. (2014). **A robust arbitrary text detection system for natural scene images**. *Expert Systems with Applications*, 41(18), 8027-8048.
-<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.712.5769&rep=rep1&type=pdf" style="color:red;">[Paper]</a>
+<a href="https://drive.google.com/open?id=1dgfqBtzzfm0f9Uxl6xgjBQTvVRTWSVvo" style="color:red;">[Paper]</a>
 1. Lim, C. H., Risnumawan, A., and Chan, C. S. (2014). **A scene image is nonmutually exclusive—a fuzzy qualitative scene understanding**. *IEEE transactions on fuzzy systems*, 22(6), 1541-1556.
 <a href="https://arxiv.org/pdf/1410.3726" style="color:red;">[Paper]</a>
 1. Risnumawan, A., and Chan, C. S. (2014, December). **Text detection via edgeless stroke width transform**. In *2014 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)* (pp. 336-340). IEEE.
-<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.712.1222&rep=rep1&type=pdf" style="color:red;">[Paper]</a>
+<a href="https://drive.google.com/open?id=1srGQSdrVT74a8w1HqNC0IErZ522s6GcT" style="color:red;">[Paper]</a>
 
 # 2009
-1. Sulistijono, I. A., Risnumawan, A., Rachmanita, C., and Kubota, N. (2009). **Human-Friendly Arm Robot Using Interactive Particle Swarm Optimization for Trajectory Generation**. In *ICCAS-SICE*, pp 229-234, 978-4-907764-34-0, IEEE. <a href="https://ieeexplore.ieee.org/document/5333584" style="color:red;">[Paper]</a>
+1. Sulistijono, I. A., Risnumawan, A., Rachmanita, C., and Kubota, N. (2009). **Human-Friendly Arm Robot Using Interactive Particle Swarm Optimization for Trajectory Generation**. In *ICCAS-SICE*, pp 229-234, 978-4-907764-34-0, IEEE. <a href="https://drive.google.com/open?id=19NpZHrxkL7XJoRfihP-4bxp0avKybFsM" style="color:red;">[Paper]</a>
