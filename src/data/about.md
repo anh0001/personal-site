@@ -4,10 +4,12 @@ Hello! I'm **Anhar Risnumawan**, currently a Lecturer at [Politeknik Elektronika
 <br />
 
 ### Academic Background
-- **Master's in Computer Science & Information Technology**
+- **Doctor in Systems Design**
+  - [Tokyo Metropolitan University](https://www.tmu.ac.jp/), Japan
+- **Master in Computer Science & Information Technology**
   - [University of Malaya](https://www.um.edu.my/), Malaysia
   - Thesis on _Robust Arbitrary Text Detection System for Scene Images_
-- **Bachelor's in Electronics Engineering**
+- **Bachelor in Electronics Engineering**
   - [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/), Indonesia
   - _Cum laude_ graduate
 
